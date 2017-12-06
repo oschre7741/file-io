@@ -1,0 +1,14 @@
+Animals
+dog
+cat
+snake
+rabbit
+chameleon
+bird
+pig
+frog
+lion
+tiger
+wolf
+penguin
+
